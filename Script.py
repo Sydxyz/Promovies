@@ -8,6 +8,7 @@ class script(object):
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<a href=https://t.me/+3-nuV_9INIg0MDY1>𝙼𝙾𝙽𝙶-𝙳𝙱😁</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴(ʙᴜᴛ ᴏɴʟyIИ PHФИΞ😍)SΓУ FФЯ ചളി 
 
+
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: <a href=https://t.me/Syd_Xyz>𝕸𝖗,,𝚂yᗪ😇 𝚟2.0.0</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
