@@ -7,16 +7,18 @@ class script(object):
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝙰𝙺𝙺𝙰 𝙼𝙰𝙻𝙰𝚈𝙰𝙻𝙰𝙼 𝚆𝙸𝚃𝙷 𝙵𝙴𝚆 𝙴𝙽𝙶𝙻𝙸𝚂𝙷😐
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 :<a href=https://t.me/+3-nuV_9INIg0MDY1>𝙼𝙾𝙽𝙶-𝙳𝙱😁</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴(ʙᴜᴛ ᴏɴʟyIИ PHФИΞ😍)SΓУ FФЯ ചളി 
-
-
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: <a href=https://t.me/Syd_Xyz>𝕸𝖗,,𝚂yᗪ😇 𝚟2.0.0</a>"""
-
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽 : <a href=https://t.me/Syd_Xyz>𝕸𝖗,,𝚂yᗪ😇 𝚟2.0.0</a>
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/Syd_Xyz>𝕸𝖗,,𝚂yᗪ😇</a>
+✯ 𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/Mod_MoviezX>𝕸𝖔𝖉 𝙼𝚘𝚟𝚒𝚎𝚣 Ж [ꜱyᴅ]</a>
+✯ 𝙲𝙾𝙻𝙻𝙴𝙲𝚃𝙸𝙾𝙽 : <a href=https://t.me/+NOqhfHgAK_U5ZjA1>𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 ꜱᴜᴩᴩᴏʀᴛ😍🥵</a>
+✯ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 : 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝚄𝚂 <a href=https://youtube.com/@Mr_Syd_Yt>𝕸𝖗,,𝚂yᗪ🤒</a>,<a href=https://youtube.com/@Mr-syd>𝕸𝖗,,𝚂yᗪ 😍𝙿𝚛𝚘😍</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
 
 <b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+- 𝙳𝚎𝚟 0️⃣1️⃣»<a href=https://t.me/Syd_Xyz>𝕸𝖗,,𝚂yᗪ😎</a>
+- 𝙳𝚎𝚟 0️⃣2️⃣»<a href=tg://settings/>𝙰 𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝙶𝚄𝚈𝚂 😍, 𝚃𝙷𝙴 𝙺𝙸𝙽𝙶👑</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -32,7 +34,8 @@ class script(object):
 
 <code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_upda><b>𝙼𝙺</b></a>"""
+
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
